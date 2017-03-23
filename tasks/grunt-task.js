@@ -1,3 +1,5 @@
-module.exports = function (grunt) {
-  require('./pm2')(grunt);
-};
+'use strict'
+
+module.exports = function (shipit) {
+  require('./pm2')(shipit)
+}

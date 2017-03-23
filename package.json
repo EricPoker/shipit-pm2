@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/callerc1/shipit-pm2",
   "devDependencies": {
-    "shipit-cli": "^1.1.0"
+    "shipit-cli": "^1.1.0",
+    "standard": "^9.0.2"
   },
   "dependencies": {
     "bluebird": "^2.9.1",

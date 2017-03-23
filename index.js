@@ -1,3 +1,5 @@
+'use strict'
+
 module.exports = function (shipit) {
-  require('./tasks/pm2')(shipit);
-};
+  require('./tasks/pm2')(shipit)
+}
